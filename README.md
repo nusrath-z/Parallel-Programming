@@ -1,7 +1,7 @@
 # Parallel-Programming
 This repository contains two implementations of parallel computing using MPI (Message Passing Interface) in C++.
 
-## 1. Parallel Sample Sort (First Program) - f.cpp
+## 1. Parallel Sample Sort (First Program) - ParallelSampleSort.cpp
 
 ### Description
 
@@ -27,7 +27,7 @@ This implementation performs a parallel sample sort on an array distributed acro
 
 
 
-## 2. Parallel Recursive Sorting with MPI Communicator Splitting (Second Program) - psrs.cpp
+## 2. Parallel Recursive Sorting with MPI Communicator Splitting (Second Program) - prs.cpp
 
 ### Description
 
